@@ -27,8 +27,8 @@ A simple web scraper built with Python that extracts Python project information 
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/roadmap-projects-scraper.git
-cd roadmap-projects-scraper
+git clone https://github.com/nmr-codes/RoadmapScraper.git
+cd RoadmapScraper
 ```
 
 Install dependencies:
@@ -64,7 +64,7 @@ After execution, a CSV file named `projects.csv` will be created in the project 
 ```text
 .
 ├── scraper.py
-├── projects.csv
+├── requirements.txt
 └── README.md
 ```
 
